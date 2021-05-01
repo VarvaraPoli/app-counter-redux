@@ -1,3 +1,6 @@
+# While studying on Udemy.com. Done in the learning process with completing additional tasks. Used  Redux.
+# This is a simple counter with plus minus and random buttons.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
